@@ -6,7 +6,7 @@
 
 **I like turning ideas into things you can see, use, and experience.**
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-111111?style=for-the-badge\&logo=vercel\&logoColor=white)](https://dhchoksi-portfolio.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-111111?style=for-the-badge\&logo=vercel\&logoColor=white)]()
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/divy-choksi)
 [![GitHub](https://img.shields.io/badge/GITHUB-111111?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Divy-Choksi)
 
